@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.86402
+  lightness: 0.782094
+  rhythmicContrast: 0.823479
+  saturation: 0.809121
+cta: {}
+layout_spectrum: 0.019425
+name: 'calder & hollis'
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.60304
