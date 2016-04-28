@@ -1,7 +1,7 @@
 name: 'calder & hollis'
 favicon: null
-layout_spectrum: 0.5248
-typography_spectrum: 0.60304
+layout_spectrum: 0
+typography_spectrum: 0.38263
 cta:
   domain: null
   bucket: null
@@ -16,14 +16,14 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#c0c1c3'
+    - '#0c0e09'
+    - '#2e3e42'
+    - '#4f6667'
+    - '#95774c'
   brandStrength: 0.86402
   lightness: 0.782094
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0.823479
 purpose:
   - name: null
