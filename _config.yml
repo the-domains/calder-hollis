@@ -1,31 +1,43 @@
-name: 'calder & hollis'
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.38263
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: 'calder & hollis'
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose:
+  - name: null
+    url: null
+    item: null
 color:
+  saturation: 1
+  brandStrength: 0.86402
+  rhythmicContrast: 0.823479
   brandColors:
     - '#c0c1c3'
     - '#0c0e09'
     - '#2e3e42'
     - '#4f6667'
     - '#95774c'
-  brandStrength: 0.86402
   lightness: 0.782094
-  saturation: 1
-  rhythmicContrast: 0.823479
-purpose:
-  - name: null
-    item: null
-    url: null
+typography_spectrum: 0.38263
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
